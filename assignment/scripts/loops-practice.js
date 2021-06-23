@@ -59,6 +59,22 @@ console.log(stars[i])
 console.log('---- 3. While loop ----');
 
 // 3.a. TODO: Write a while loop to console.log each star in the 'stars' array
+
+// var dogNames = ['Mia','Axel','Bandit','Kobe','Betsy']
+// var x=0;
+//
+// while( x <= dogNames.length) {
+//   console.log(dogNames[x])
+//   x++;
+// }
+//
+// ======== output ===========
+//Mia
+//Axel
+//Bandit
+//Kobe
+//Betsy
+//undefined
 console.log('Some stars using while:');
 stars = ['Polaris', 'Gacrux', 'Formalhaut', 'Rigel', 'Deneb'];
 
